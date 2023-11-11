@@ -97,7 +97,7 @@ body {
 .header {
   min-height: 740px;
   /* минимальная высота блока согласно макета */
-  background-image: url(img/Rectangle.jpg);
+  background-image: url(../Portfolio_Frame/img/Rectangle.jpg);
   /* фоновое изображение */
   background-repeat: no-repeat;
   /* чтобы изображение не повторялось */
