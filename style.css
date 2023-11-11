@@ -97,7 +97,7 @@ body {
 .header {
   min-height: 740px;
   /* минимальная высота блока согласно макета */
-  background-image: url(../img/Rectangle.jpg);
+  background-image: url(img/Rectangle.jpg);
   /* фоновое изображение */
   background-repeat: no-repeat;
   /* чтобы изображение не повторялось */
@@ -482,7 +482,7 @@ label {
   width: 15px;
   height: 15px;
   /* установили размер стрелки из фигмы */
-  background-image: url(../img/Polygon.svg);
+  background-image: url(img/Polygon.svg);
   background-repeat: no-repeat;
   /* чтобы стрелка не повторялась */
   /* background-position: center; */
